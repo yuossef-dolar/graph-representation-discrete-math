@@ -1,0 +1,36 @@
+Dear Students,
+
+I hope you are all doing well.
+
+Building on the formatting instructions shared by Dr. Hammad and Dr. Ibram, as well as the report guideline file shared by Donia, Dr. Alaa has asked me to record a short video explaining what is expected from your side on the discussion day.
+
+Please take the following points seriously:
+
+First, each team will have only 15 minutes for the presentation. Exceeding the time limit, even by one minute, will negatively affect your score. Therefore, it is your responsibility to organize your content carefully and make sure it fits within the given time.
+
+Second, all team members must participate equally. For example, if the team consists of five members, each member should speak for approximately three minutes. The presentation should clearly reflect the contribution of every member.
+
+Third, please make sure that each member presents the part they actually contributed to. This will help us direct the appropriate questions to the right person during the discussion.
+
+Regarding the coding part, you are expected to implement the problem you selected, such as Graph Models, Graph Representation, Hamiltonian Path, or Hamiltonian Circuits. You should also prepare multiple input cases, including both small and large graphs. For large graphs, it is better and more organized to use input files rather than storing the data directly inside variables. You may use AI tools to help generate test cases, organize your work, or improve your implementation, but you must understand and be able to justify everything you present.
+
+Please make sure to carefully review the following materials:
+
+Dr. Hammad’s formatting instructions
+Donia’s report guidelines:
+https://moodle.nu.edu.eg/pluginfile.php/411594/mod_forum/post/76937/Report%20Guidelines.pdf
+
+Also, please watch this video:
+https://www.youtube.com/watch?v=X8Xyp7WgkWI
+
+Take all of the above instructions seriously.
+
+Be honest in your work, put in real effort, and try to be creative. Your effort and understanding will be appreciated.
+
+Good Luck
+
+Best regards,
+
+Ahmed Khaled
+
+ 
